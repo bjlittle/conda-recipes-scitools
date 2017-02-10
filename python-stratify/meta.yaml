@@ -35,10 +35,3 @@ about:
   license_family: BSD
   license_file: LICENSE
   summary: 'Vectorized interpolators that are especially useful for Nd vertical interpolation/stratification of atmospheric and oceanographic datasets' 
-
-extra:
-  recipe-maintainers:
-    - bjlittle
-    - lbdreyer
-    - ocefpaf
-    - pelson
